@@ -2,6 +2,8 @@
 
 A Hubot script that display random photos were uploaded to [Hatena::Fotolife][fotolife].
 
+![](http://img.f.hatena.ne.jp/images/fotolife/b/bouzuya/20140819/20140819012310.gif)
+
 ## Installation
 
     $ npm install git://github.com/bouzuya/hubot-hatena-fotolife.git
