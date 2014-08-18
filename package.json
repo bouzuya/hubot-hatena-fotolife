@@ -1,6 +1,6 @@
 {
   "name": "hubot-hatena-fotolife",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A Hubot script that display random photos were uploaded to [Hatena::Fotolife][fotolife]",
   "main": "index.coffee",
   "scripts": {
